@@ -1,0 +1,40 @@
+# Copyright (C) 2024 Christian Wach
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Thoreau Utilities 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/thoreau-utilities\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-19T12:54:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: thoreau-utilities\n"
+
+#. Plugin Name of the plugin
+#: thoreau-utilities.php
+msgid "Thoreau Utilities"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: thoreau-utilities.php
+msgid "https://github.com/digital-thoreau/thoreau-utilities"
+msgstr ""
+
+#. Description of the plugin
+#: thoreau-utilities.php
+msgid "Better handling of Walter Harding comments on the Digital Thoreau Website."
+msgstr ""
+
+#. Author of the plugin
+#: thoreau-utilities.php
+msgid "Christian Wach"
+msgstr ""
+
+#. Author URI of the plugin
+#: thoreau-utilities.php
+msgid "https://haystack.co.uk"
+msgstr ""
