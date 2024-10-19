@@ -68,7 +68,7 @@ class Thoreau_Utilities {
 	 * @since 1.0
 	 *
 	 * @param array $media The existing media array.
-	 * @param int $post_id The numeric ID of the WordPress Post.
+	 * @param int   $post_id The numeric ID of the WordPress Post.
 	 * @param array $args The additional arguments.
 	 * @return array $media The modified media array.
 	 */
@@ -87,12 +87,12 @@ class Thoreau_Utilities {
 
 		// Build image data array.
 		$image_data = [
-			'type' => 'image',
-			'from' => 'custom_fallback',
-			'src' => esc_url( $url ),
-			'src_width' => 200,
+			'type'       => 'image',
+			'from'       => 'custom_fallback',
+			'src'        => esc_url( $url ),
+			'src_width'  => 200,
 			'src_height' => 200,
-			'href' => $permalink,
+			'href'       => $permalink,
 		];
 
 		// Build media array.
