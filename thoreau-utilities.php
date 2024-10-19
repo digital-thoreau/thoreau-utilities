@@ -1,13 +1,34 @@
 <?php
 /**
- * Plugin Name: Thoreau Utilities
- * Plugin URI: https://github.com/digital-thoreau/thoreau-utilities
- * Description: Network-wide Utilities for the Readers' Thoreau website.
- * Author: Christian Wach
- * Version: 1.0
- * Author URI: https://haystack.co.uk
+ * Thoreau Harding
+ *
+ * Plugin Name:       Thoreau Utilities
+ * Description:       Better handling of Walter Harding comments on the Digital Thoreau Website.
+ * Plugin URI:        https://github.com/digital-thoreau/thoreau-utilities
+ * GitHub Plugin URI: https://github.com/digital-thoreau/thoreau-utilities
+ * Version:           1.0
+ * Author:            Christian Wach
+ * Author URI:        https://haystack.co.uk
+ * License:           GPLv2 or later
+ * License URI:       https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * Requires at least: 5.7
+ * Requires PHP:      7.4
+ * Text Domain:       thoreau-utilities
+ * Domain Path:       /languages
  *
  * @package Thoreau_Utilities
+ * @link    https://github.com/digital-thoreau/thoreau-utilities
+ * @license GPL v2 or later
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
  */
 
 // Exit if accessed directly.
