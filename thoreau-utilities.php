@@ -6,7 +6,7 @@
  * Description:       Better handling of Walter Harding comments on the Digital Thoreau Website.
  * Plugin URI:        https://github.com/digital-thoreau/thoreau-utilities
  * GitHub Plugin URI: https://github.com/digital-thoreau/thoreau-utilities
- * Version:           1.0
+ * Version:           1.0.1a
  * Author:            Christian Wach
  * Author URI:        https://haystack.co.uk
  * License:           GPLv2 or later
@@ -35,7 +35,7 @@
 defined( 'ABSPATH' ) || exit;
 
 // Set our version here.
-define( 'THOREAU_UTILITIES_VERSION', '1.0' );
+define( 'THOREAU_UTILITIES_VERSION', '1.0.1a' );
 
 // Store reference to this file.
 if ( ! defined( 'THOREAU_UTILITIES_FILE' ) ) {
