@@ -1,9 +1,9 @@
 <?php
 /**
- * Thoreau Harding
+ * Thoreau Utilities
  *
  * Plugin Name:       Thoreau Utilities
- * Description:       Better handling of Walter Harding comments on the Digital Thoreau Website.
+ * Description:       Network-wide Utilities for the Readers' Thoreau website.
  * Plugin URI:        https://github.com/digital-thoreau/thoreau-utilities
  * GitHub Plugin URI: https://github.com/digital-thoreau/thoreau-utilities
  * Version:           1.0.1a
